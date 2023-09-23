@@ -1,5 +1,8 @@
 # mathquiz
 
+
+![13](https://github.com/kalimaty/math_quiz_refactoring/assets/105967966/fb85f133-955e-4cc4-8a8b-dff0129ce2c1)
+
 A new Flutter project.
 
 ## Getting Started
